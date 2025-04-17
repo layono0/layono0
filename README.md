@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Eu programo usando</h2>
+<h2 align="left">Minhas linguagens atuais</h2>
 
 ###
 
